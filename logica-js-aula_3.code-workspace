@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../logica-js-aula_1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "logica-js-aula_3"
+	}
+}
